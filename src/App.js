@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Yksinkertainen tehtävälista</h2>
+          <h2>Tehtävälista</h2>
         </div>
         <div>
           <form onSubmit={this.addTodo}>
