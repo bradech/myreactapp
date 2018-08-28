@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Simple TodolistaWWW</h2>
+          <h2>Simple Todolista</h2>
         </div>
         <div>
           <form onSubmit={this.addTodo}>
